@@ -82,12 +82,12 @@ Decision Tree Regression	0.0042	0.0649	99.9895
 
 ## Content:
 
--  Report.pdf # PDF Report / summary of the final assignment.
+-  Air Quality Prediction.pdf # PDF Report / summary of the final assignment.
 
--  Report.docx # Report in Doc Format.
+-  Air Quality Prediction.docx # Report in Doc Format.
 
--  Complete.ipynb # Jupyter notebook with coding.
+-  Air Quality Prediction.ipynb # Jupyter notebook with coding.
 
-- .csv #  Dataset CSV File.
+- Copy of AirQualityUCI.csv #  Dataset CSV File.
 
 - README.md # this readme file
