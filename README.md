@@ -23,14 +23,14 @@ The following are the business objective of this application,
 ---
 
 <p align="center">
-     🧙‍♂️&nbsp; Click here to access the Project Notebook <a href="Paste your python file Link Here">Complete EDA and modelling</a> <br>
+     🧙‍♂️&nbsp; Click here to access the Project Notebook <a href="https://github.com/haritikajolly/Air-Quality-Prediction/blob/ba52441feed1e9ee548efaa51b46aa2cac8ef0b9/Air%20Quality%20Prediction.ipynb"></a> <br>
 </p>
 
 ---
 
 ## Table of Contents:
 
-[Jupyter Notebook Link]( Paste Your Python file link here )
+[Jupyter Notebook Link](https://github.com/haritikajolly/Air-Quality-Prediction/blob/ba52441feed1e9ee548efaa51b46aa2cac8ef0b9/Air%20Quality%20Prediction.ipynb)
 >**Data Sourcing**
 
 >**Data Importing**
