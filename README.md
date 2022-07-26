@@ -8,7 +8,11 @@
 </p>
 
 ## Objective of Project:
+- **Pre-processing**: It is the first step to read the dataset and clean the data i.e. removing unwanted data or identifying null values. If any null values exist, we replace them with constant values or removing duplicates.
 
+- **Exploration**: Visualizing the dataset, detect outliers, replacing a missing value and cleaning the dataset, splitting training dataset into training and testing sets and checks for any correlation among the features using heatmap. Prediction: Here we predict the quality of air by finding R^2 score using different Regression models
+
+- **Finally, Declare that the model with the highest R^2 score on both training and testing datasets will be concluded as the best model for evaluating the Quality of Air**.
 
 ## Research Objectives:
 The following are the business objective of this application,
