@@ -80,6 +80,18 @@ Decision Tree Regression	0.0042	0.0649	99.9895
 
 **Result: By seeing the table we conclude that Decision Tree Regression model is giving More accuracy out of all these model so it will be considered as the best model for evaluating the Quality of Air.**
 
+## Modelling & Research answers :
+
+> Q: Find the classification model that can be used in the future as a predictive model, that will result in higher accuracy?
+
+In comparison with all 3 classification algorithms Decision Tree Regression outperformed Linear Regression and Lasso Regression classification by achieving the highest accuracy among all of the three classification algorithms.
+So Decision Tree Regression model will be considered as the best predictive model for evaluating the Quality of Air.
+
+> Q: Find the variable highly correlated with the target variable. Decide independent parameter to predict the dependent parameter for modelling ?
+
+By seeing the correlation we conclude that Target variable : C6H6_GT is highly correlated to PTO8.S2_NMHC, so we take PTO8.S2_NMHC as independent parameter to predict the dependent parameter i.e., C6H6_GT
+
+
 ## Content:
 
 -  Air Quality Prediction.pdf # PDF Report / summary of the final assignment.
