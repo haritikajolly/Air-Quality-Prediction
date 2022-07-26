@@ -23,7 +23,7 @@ The following are the business objective of this application,
 ---
 
 <p align="center">
-     🧙‍♂️&nbsp; Click here to access the Project Notebook <a href="https://github.com/haritikajolly/Air-Quality-Prediction/blob/ba52441feed1e9ee548efaa51b46aa2cac8ef0b9/Air%20Quality%20Prediction.ipynb"></a> <br>
+     🧙‍♂️&nbsp; Click here<a href="https://github.com/haritikajolly/Air-Quality-Prediction/blob/ba52441feed1e9ee548efaa51b46aa2cac8ef0b9/Air%20Quality%20Prediction.ipynb"> to access the Project Notebook</a> <br>
 </p>
 
 ---
