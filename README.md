@@ -59,7 +59,7 @@ The following are the business objective of this application,
 > **Conclusion**
    
   
->**Conclusion from Modelling & Research answers.**
+>**Conclusion from Modeling & Research answers.**
 
 ## Technologies:
 This project is created with:
@@ -68,7 +68,7 @@ This project is created with:
 * Python Libraries: Pandas, NumPy, matplotlib, SciPy, Seaborn, Scikit Learn
 
 
-## Classification & Modelling - Results:
+## Classification & Modeling - Results:
 
 **For designing the model for predicting Quality of Air, I have applied Linear Regression, Decision Tree, Lasso Regression.**
 
