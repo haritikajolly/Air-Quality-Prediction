@@ -83,7 +83,7 @@ Decision Tree Regression	0.0042	0.0649	99.9895
 
 **Result: By seeing the table we conclude that Decision Tree Regression model is giving More accuracy out of all these model so it will be considered as the best model for evaluating the Quality of Air.**
 
-## Modelling & Research answers :
+## Modeling & Research answers :
 
 > Q: Find the classification model that can be used in the future as a predictive model, that will result in higher accuracy?
 
